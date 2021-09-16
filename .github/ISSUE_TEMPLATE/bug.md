@@ -7,8 +7,9 @@ labels: "bug"
 **Description**
 
 
-- Version:
-- Platform:
+- Library Version:
+- ROS Version:
+- Platform / OS:
 
 **Steps To Reproduce**
 <!--- Include the minimum possible code or example data to reproduce the problem -->
