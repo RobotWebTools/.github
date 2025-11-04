@@ -1,9 +1,1 @@
 blank_issues_enabled: false
-contact_links:
-  - name: Question
-    url: https://answers.ros.org/
-    about: Ask a question or get help using this library on ROS Answers
-
-  - name: Discussion
-    url: https://discourse.ros.org/
-    about: Post a discussion topic on ROS Discourse
